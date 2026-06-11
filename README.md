@@ -14,7 +14,7 @@ A WPF desktop application for querying available AI model versions across multip
 
 ## 📸 Screenshot
 
-![Model Version Checker](ModelVersionChecker/Resources/app-icon.png)
+![Model Version Checker](screenshot.png)
 
 ## 🚀 Quick Start
 
