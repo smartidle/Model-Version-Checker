@@ -1,0 +1,18 @@
+## .NET
+bin/
+obj/
+publish/
+*.user
+*.suo
+*.cache
+*.log
+.vs/
+.vscode/
+
+## NuGet
+*.nupkg
+packages/
+
+## Build
+[Bb]in/
+[Oo]bj/
